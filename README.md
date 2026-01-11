@@ -1,4 +1,4 @@
-# 🍎 AI Food Calorie Tracker
+# AI Food Calorie Tracker
 
 A real-time, deep-learning-based application that identifies food items through a webcam and tracks total calorie intake. This project leverages **YOLOv8** for high-accuracy object detection and **Tkinter** for a smooth, user-friendly interface.
 
