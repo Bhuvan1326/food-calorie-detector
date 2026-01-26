@@ -26,6 +26,13 @@ The application identifies these common items and maps them to their average cal
 | **Cake** | `cake` | 250 | 1 Slice |
 | **Broccoli** | `broccoli` | 50 | 1 Cup |
 
+
+
+https://github.com/user-attachments/assets/32306d42-8ebb-4ad4-a61e-77339df57bf5
+
+
+
+
 ---
 
 ## 🛠️ Installation & Setup
